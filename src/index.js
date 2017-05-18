@@ -1,5 +1,11 @@
 function makeHTML(text) {
+	
 	return `<p>${text}</p>`;
 }
 
-module.exports = makeHTML;
+function isFingerNumber(n) {}
+
+module.exports = {
+	makeHTML: makeHTML,
+	isFingerNumber: isFingerNumber
+};
