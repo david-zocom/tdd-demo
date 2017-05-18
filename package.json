@@ -1,0 +1,19 @@
+{
+  "name": "tdd-demo",
+  "version": "1.0.0",
+  "description": "Demonstration of TDD framework Jest",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^20.0.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "tdd",
+    "jest"
+  ],
+  "author": "David Andersson",
+  "license": "ISC"
+}
